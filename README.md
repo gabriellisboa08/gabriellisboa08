@@ -2,7 +2,7 @@
 
 - 🧑‍ Cursando Sistemas de Informação🎓
 - 📘 Aprendendo JavaScript
-- 👯 Gostaria de trabalhar como programado Front-end
+- 👯 Gostaria de trabalhar como programador Front-end
 - 📫 Contate no e-mail: gabriellisboa08@gmail.com
 
 <div align="center">
