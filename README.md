@@ -1,4 +1,4 @@
-### Olá, sou o Gabriel Lisbôa �<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+### Olá, sou o Gabriel Lisbôa <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 - 🧑‍ Cursando Sistemas de Informação🎓
 - 📘 Aprendendo JavaScript
