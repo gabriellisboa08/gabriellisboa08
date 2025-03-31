@@ -2,7 +2,6 @@
 
 - 🧑‍ Formado em Análise e Desenvolvimento de Sistemas🎓
 - 📘 Desenvolvedor Java, Python, Javascript
-- 👯 Gostaria de trabalhar como programador Front-end
 - 📫 Contate no e-mail: gabriellisboa08@gmail.com
 
 <div align="center">
